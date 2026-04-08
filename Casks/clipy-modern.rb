@@ -1,6 +1,6 @@
 cask "clipy-modern" do
-  version "0.1.0"
-  sha256 "93555ba9135769ddec3805c96f890adb6c0279924d1ef705582b49241cbd2c8e"
+  version "0.2.0"
+  sha256 "5c5e3796609fe46bd8c05dd96d31a01e6d43ed1216de34a11a802ee2e94eb5e8"
 
   url "https://github.com/ryaz/clipy-modern/releases/download/v#{version}/Clipy-#{version}.dmg"
   name "Clipy"
