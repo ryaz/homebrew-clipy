@@ -1,0 +1,23 @@
+Casks/clipy-modern.rb
+  c7a2606d256561ea 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.6",
+  "base_commit_sha": "fc6050114bf3e5977ab1332ce762e584b0ee3b3b",
+  "prompts": {
+    "c7a2606d256561ea": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fe5ba9d5-7ceb-4111-a49f-efe665eeaa79",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Dmytro Riazanov",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
